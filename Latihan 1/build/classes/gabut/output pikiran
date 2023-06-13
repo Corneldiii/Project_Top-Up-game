@@ -1,0 +1,41 @@
+selamat datang di Data karaywan perusahaan Corneldii berkah
+ada yang bisa saya bantu : 
+- masukan data
+- melihat data
+- mengganti data
+- keluar
+
+_masukan data_
+jumlah dta yang ingin di input :
+
+Masukan data : 
+nama : ----
+umur : ----
+masuk kerja : ------
+tanggal lahir : ----
+asal : ----
+
+_melihat data_
+sort by : 
+- umur
+- lama bekerja
+ 
+
+ _menggganti data_
+
+ - data kosong - 
+
+nama : ----
+umur : ----
+masuk kerja : ------
+tanggal lahir : ----
+asal : ----
+
+yakin ingin diganti?[ya/tidak]
+ya
+Maukan data terbaru 
+nama : ----
+umur : ----
+masuk kerja : ------
+tanggal lahir : ----
+asal : ----

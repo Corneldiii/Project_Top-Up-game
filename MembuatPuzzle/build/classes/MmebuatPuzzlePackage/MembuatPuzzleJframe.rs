@@ -1,0 +1,2 @@
+MmebuatPuzzlePackage.MembuatPuzzleJFrame
+MmebuatPuzzlePackage.MembuatPuzzleJFrame$1

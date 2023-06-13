@@ -1,0 +1,16 @@
+run:
+### Pendataan Mahasiswa###
+Nama
+Rendi
+Usia:
+17
+Apakah anda ingin keluar
+Jawab[ya/tidak]> 
+ya
+-------------------------
+nama: Rendi
+Usia: 17tahun
+-------------------------
+hari yang telah kamu lalui selama 17 tahun adalah =6205
+Anda sudah melakukan perulangan sebanyak 1 kali
+BUILD SUCCESSFUL (total time: 18 seconds)

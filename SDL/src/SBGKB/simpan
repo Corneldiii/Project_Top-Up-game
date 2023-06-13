@@ -1,0 +1,21 @@
+a.addFirst(12);
+        a.addFirst(1);
+        a.addLast(13);
+        System.out.println("============ SEMUA DATA ============");
+        a.print();
+        System.out.println("====================================");
+        ListNode cek=a.search(12);
+        if(cek==null){
+            System.out.println("Data tidak ditemukan");
+        }else{
+            System.out.println("Data ditemukan : "+cek.getElemen());
+        }
+        System.out.println("======================================");
+        try{
+            a.removeFirst();
+            a.removeLast();
+            a.removeFirst();
+            a.removeLast();
+        }catch(NoSuchElementException e){
+            System.out.println(e.getMessage());
+        } 
